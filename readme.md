@@ -1,4 +1,4 @@
-#xtracker - Budget Tracking Application built with Laravel 5.1
+#clubtracker - School Club Tracking Application built with Laravel 5.1
 #Author - William Neal
 
 #All files in this package are Open Source and released under the MIT Licence:
