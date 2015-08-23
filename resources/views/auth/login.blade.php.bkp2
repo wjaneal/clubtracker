@@ -1,0 +1,6 @@
+@extends('staff')
+
+@section('content')
+<H1>Login Page</H1>
+
+@endsection
